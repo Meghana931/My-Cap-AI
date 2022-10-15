@@ -1,4 +1,4 @@
-# phyton program for a fibnocci squence
+# phyton program for a fibonacci numbers
 n = int(input("enter the length "))
 def fib(n):
 

@@ -1,4 +1,4 @@
-#define three sets
+#define two sets
 M = {1, 2, 3, 4, 5};
 U = {2, 4, 6, 8, 10};
 #set union 
